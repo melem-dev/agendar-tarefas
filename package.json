@@ -1,0 +1,12 @@
+{
+  "name": "agendar-tarefas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://mrmelem: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@github.com/melem-dev/agendar-tarefas",
+  "author": "Pedro Melém <melem.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-schedule": "^2.1.0"
+  }
+}
